@@ -10,3 +10,8 @@ data/<br>
 └── real_dataset/<br>
 
 with all its subfolders (animals, city, food...)
+
+### TODO:
+- Implement segmentation of data
+- Find better layer structure for our task
+- Visualizations
